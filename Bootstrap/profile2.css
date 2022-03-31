@@ -1,0 +1,15 @@
+#profile{
+    height: 500px !important;
+    width: 25% !important;
+    /* background-color:teal !important; */
+}
+#subPro{
+    width: 30% !important;
+    height:100px!important;
+    background-color:aquamarine!important;
+}
+#profile2{
+    height: 500px !important;
+    width: 65% !important;
+    background-color:olive !important;
+}
