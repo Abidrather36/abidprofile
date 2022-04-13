@@ -1,5 +1,29 @@
+/* .media-left>img{
+    width: 100%!important;
+    height: 100%!important;
+} */
 #btndesc{
     background-color:#36686d!important;
+ }
+ .tilecontainer{
+     height: 180px !important;
+     width: 40%!important;
+     display: inline-block;
+     margin-left:6%!important;
+     border: 2px solid green;
+     margin-top: 2%!important;
+ }
+ .tilecomponent1{
+     height: 180px !important;
+     width: 50%!important;
+     background-color:teal;
+     
+ }
+ .tilecomponent2{
+    height: 180px !important;
+     width: 48%!important;
+    background-color:olive;
+
  }
  #col8{
      height: 300px!important;
@@ -41,6 +65,9 @@
     /* background-color:aquamarine!important */
     width:38%!important;
  }
+ #pers1:hover{
+     transform: scale(1.1);
+ }
  #pers1>img{
     height:100%!important;
     width:100%!important;
@@ -51,6 +78,9 @@
      height:200px!important;
      /* background-color:hotpink!important; */
      width:38%!important;
+ }
+ #pers2:hover{
+     transform:scale(1.1)
  }
  #pers2>img{
      height:100%!important;
